@@ -870,3 +870,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.03-12.32.34:773][371]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.01.03-12.32.34:775][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2021.01.03-12.32.34:776][371]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2021.01.03-12.32.47:006][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.03-12.32.47:009][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.03-12.32.47:077][487]LogSavePackage: Moving 'D:/Projects/api/Saved/FirstPersonExampleMap4E6035754E76864DA28616AD3C089547.tmp' to 'D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.03-12.32.47:483][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.01.03-12.32.47:899][487]LogSavePackage: Moving 'D:/Projects/api/Saved/FirstPersonExampleMap_BuiltDataD0760C9D49A573D1A4579898A4D1E5EA.tmp' to 'D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.03-12.32.47:906][487]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.03-12.32.47:906][487]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.03-12.32.47:906][487]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
