@@ -798,3 +798,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.03-12.25.42:275][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.01.03-12.25.42:293][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.01.03-12.25.42:387][  2]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.03-12.28.12:221][801]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.03-12.28.12:245][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.03-12.28.12:284][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.03-12.28.12:507][801]LogSavePackage: Moving 'D:/Projects/api/Saved/FirstPersonExampleMap8E1EFF61469B44D5F9506EBE65F2200E.tmp' to 'D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.03-12.28.12:662][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.01.03-12.28.13:343][801]LogSavePackage: Moving 'D:/Projects/api/Saved/FirstPersonExampleMap_BuiltDataF3436F7E41A65457F37C719D83F431B3.tmp' to 'D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.03-12.28.13:370][801]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.03-12.28.13:370][801]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.03-12.28.13:370][801]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.03-12.30.20:037][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap" FILE="D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.03-12.30.20:040][634]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.03-12.30.20:568][634]LogSavePackage: Moving 'D:/Projects/api/Saved/FirstPersonExampleMap642019AD4712870777767493284AEFD7.tmp' to 'D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.03-12.30.20:646][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.01.03-12.30.21:027][634]LogSavePackage: Moving 'D:/Projects/api/Saved/FirstPersonExampleMap_BuiltDataFEF8D9424D9BC0139E9C84A1D4605256.tmp' to 'D:/Projects/api/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.03-12.30.21:034][634]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.03-12.30.21:034][634]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.03-12.30.21:034][634]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.03-12.31.19:148][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:148][589]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: URL: C:\Users\lerow\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: URL: C:\Users\lerow\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2021.01.03-12.31.19:149][589]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.01.03-12.31.20:815][787]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.01.03-12.31.20:815][787]LogWindows: Warning: URL: E:/Games/UE_4.26/Engine/Binaries/Win64/ version
+[2021.01.03-12.31.53:462][573]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.01.03-12.31.53:462][573]LogWindows: Warning: URL: D:/Projects/api version
+[2021.01.03-12.31.56:256][903]LogSlate: Took 0.019049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.03-12.31.58:833][202]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.01.03-12.31.58:833][202]LogWindows: Warning: URL: D:/Projects/api version
+[2021.01.03-12.31.58:833][202]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.01.03-12.32.09:023][393]SourceControl: Source control is disabled
+[2021.01.03-12.32.09:023][393]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.03-12.32.10:560][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2021.01.03-12.32.11:477][661]Cmd: DELETE
+[2021.01.03-12.32.11:477][661]Cmd: ACTOR DELETE
+[2021.01.03-12.32.11:531][661]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.03-12.32.11:543][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.03-12.32.11:544][661]LogEditorActor: Deleted 1 Actors (0.066 secs)
