@@ -845,3 +845,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.03-12.32.11:531][661]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.01.03-12.32.11:543][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2021.01.03-12.32.11:544][661]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2021.01.03-12.32.30:538][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2021.01.03-12.32.30:722][896]Cmd: DELETE
+[2021.01.03-12.32.30:722][896]Cmd: ACTOR DELETE
+[2021.01.03-12.32.30:723][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.03-12.32.30:726][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.03-12.32.30:726][896]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2021.01.03-12.32.31:960][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.01.03-12.32.32:558][113]Cmd: DELETE
+[2021.01.03-12.32.32:558][113]Cmd: ACTOR DELETE
+[2021.01.03-12.32.32:559][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.03-12.32.32:561][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.03-12.32.32:562][113]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2021.01.03-12.32.33:549][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2021.01.03-12.32.33:704][248]Cmd: DELETE
+[2021.01.03-12.32.33:704][248]Cmd: ACTOR DELETE
+[2021.01.03-12.32.33:705][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.03-12.32.33:707][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.03-12.32.33:708][248]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2021.01.03-12.32.34:238][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2021.01.03-12.32.34:534][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2021.01.03-12.32.34:771][371]Cmd: DELETE
+[2021.01.03-12.32.34:771][371]Cmd: ACTOR DELETE
+[2021.01.03-12.32.34:773][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.03-12.32.34:775][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.03-12.32.34:776][371]LogEditorActor: Deleted 1 Actors (0.004 secs)
